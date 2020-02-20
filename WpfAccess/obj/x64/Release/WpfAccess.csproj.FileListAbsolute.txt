@@ -1,0 +1,14 @@
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\bin\x64\Release\WpfAccess.exe
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\bin\x64\Release\WpfAccess.pdb
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\MainWindow.g.cs
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\App.g.cs
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\WpfAccess_MarkupCompile.cache
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\WpfAccess_MarkupCompile.lref
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\MainWindow.baml
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\WpfAccess.g.resources
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\WpfAccess.Properties.Resources.resources
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\WpfAccess.csproj.GenerateResource.cache
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\WpfAccess.csproj.CoreCompileInputs.cache
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\WpfAccess.exe
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\WpfAccess.pdb
+d:\jaylai\wpfaccess2\WpfAccess\WpfAccess\obj\x64\Release\WpfAccess.csprojAssemblyReference.cache
